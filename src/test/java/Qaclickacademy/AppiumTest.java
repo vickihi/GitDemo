@@ -12,5 +12,11 @@ public class AppiumTest {
 	public void nativeAppIOS() {
 		System.out.println("nativeAppIOS");
 	}
+	
+	@Test
+	public void gitX_develop() {
+		System.out.println("gitX develop branch test");
+	}
+
 
 }
