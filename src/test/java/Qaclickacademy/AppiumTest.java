@@ -17,6 +17,11 @@ public class AppiumTest {
 	public void gitX_develop() {
 		System.out.println("gitX develop branch test");
 	}
+	
+	@Test
+	public void gitX_develop2() {
+		System.out.println("gitX develop branch test");
+	}
 
 
 }
