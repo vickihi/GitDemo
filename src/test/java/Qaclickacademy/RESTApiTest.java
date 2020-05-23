@@ -12,4 +12,9 @@ public class RESTApiTest {
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
 	}
+	
+	@Test
+	public void gitY_develop() {
+		System.out.println("gitY develop test");
+	}
 }
